@@ -5,3 +5,5 @@
 - 🔗 Linkedin profile: [linkedin.com/in/aleks-volochnev](https://www.linkedin.com/in/aleks-volochnev/)
 - 🌐 I speak 🇬🇧,🇷🇺,🇩🇪 and un po' 🇮🇹 (heading to A2 level atm)
 - ⚡ Fun fact: my first job in IT was to be a TCP package
+
+![Aleks GitHub Stats](https://github-readme-stats.vercel.app/api?username=hadesarchitect&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)
